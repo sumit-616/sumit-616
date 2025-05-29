@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **frontend projects**  
+ 🔭 I’m currently working as a **React.js Intern** at **Celebal Technologies**  
  
  🌱 I’m currently learning **Node.js & Backend Development**  
 
@@ -26,10 +26,6 @@
 
 </div>
 
-
-
-
- 
 <div align="center"> 
 
   <a href="mailto:sumit616794@gmail.com">
@@ -44,8 +40,7 @@
 
 </div>
 
-
- <hr/>
+<hr/>
 
 <h2 align="center">⚒️ Languages, Frameworks & Tools ⚒️</h2>
 <br/>
@@ -71,12 +66,9 @@
 <br/>
 <hr/>
 
-
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/sumit-616/sumit-616/output/github-contribution-grid-snake.svg" />
   <br/><br/><br/>
 </div>
-
-
