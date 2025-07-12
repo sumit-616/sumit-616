@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working as a **React.js Intern** at **Celebal Technologies**  
+ 🔭 I’m currently working as a **Frontend Developer Intern** at **Storyvord**  
  
  🌱 I’m currently learning **Node.js & Backend Development**  
 
