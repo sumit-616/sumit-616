@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Node.js & Backend Development**  
 
- 💡 I have built a frontend <a href="https://xuper-app.vercel.app/" target="_blank" title="Click to view project"><b>Super App website</b></a>  
+ 💡 I have built a frontend <a href="https://myskillmate-ai.vercel.app/" target="_blank" title="Click to view project"><b>SkillMate AI Website</b></a>  
 
  💬 Ask me about **React.js, JavaScript, CSS, and UI/UX design!**  
 
