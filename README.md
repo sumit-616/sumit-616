@@ -71,5 +71,5 @@
   <br/><br/><br/>
 </div>
 
-<h2 align="center">✨ Thanks for stopping by! ✨</h2>
+<h2 align="center">✨ Thanks for visiting! ✨</h2>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
