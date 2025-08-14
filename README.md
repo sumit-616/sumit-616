@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=12,19,21,25&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Sumit+Kumar;DSA+%26+Web+Dev+Enthusiast;Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
 
@@ -78,3 +78,6 @@
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/sumit-616/sumit-616/output/github-contribution-grid-snake.svg" />
   <br/><br/><br/>
 </div>
+
+<h2 align="center">✨ Thanks for stopping by! ✨</h2>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
