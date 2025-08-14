@@ -2,16 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Sumit+Kumar;DSA+%26+Web+Dev+Enthusiast;Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
 
-<h3 align="center">💻 Focused on clean code, efficient algorithms, and intuitive web interfaces.</h3>
-<br/>
-<!--
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sumit+Kumar!;" />
-</h1>
---!>
-
 <h3 align="center">A passionate Frontend Developer from India IN</h3>
-
+<hr/>
 <br/>
 
 <div align="center">
