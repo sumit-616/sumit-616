@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Sumit+Kumar;DSA+%26+Web+Dev+Enthusiast;Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Sumit+Kumar;DSA+%26+Web+Dev+Enthusiast;Welcome+to+my+GitHub+profile!)](https://github.com/sumit-616)
 
 <h3 align="center">A passionate Frontend Developer from India IN</h3>
 <hr/>
