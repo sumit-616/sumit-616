@@ -8,7 +8,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working as a **Frontend Developer Intern** at **Storyvord**  
+ 🔭 I’ve completed my role as a **Frontend Developer Intern** at **Storyvord**
  
  🌱 I’m currently learning **Node.js & Backend Development**  
 
