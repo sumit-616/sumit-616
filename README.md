@@ -1,26 +1,24 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00bfbf,100:008cff&height=140&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Sumit+Kumar;DSA+%26+Web+Dev+Enthusiast;Welcome+to+my+GitHub+profile!)](https://github.com/sumit-616)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Sumit+Kumar;Frontend+Developer;React.js+Specialist;SDE+Intern+@+CSGI;Building+Clean+%26+Scalable+UI;Welcome+to+my+GitHub+profile!)](https://github.com/sumit-616)
 
-<h3 align="center">A passionate Frontend Developer from India IN</h3>
+<h3 align="center">Frontend Developer • React.js • Focused on Real-World Impact</h3>
 <hr/>
 <br/>
 
 <div align="center">
  
- 🔭 I’ve completed my role as a **Frontend Developer Intern** at **Storyvord**
+ 💼 Currently working as **SDE Intern @ CSGI**
  
- 🌱 I’m currently learning **Node.js & Backend Development**  
-
- 💡 I have built a frontend <a href="https://myskillmate-ai.vercel.app/" target="_blank" title="Click to view project"><b>SkillMate AI Website</b></a>  
-
- 💬 Ask me about **React.js, JavaScript, CSS, and UI/UX design!**  
-
- 🧠 I’m consistently improving my **Data Structures and Algorithms (DSA) skills**  
-
- 🔹 I enjoy solving **problems and writing clean, efficient code**  
-
- ⚡ Fun fact **The first website was built in 1991!**  
+ 🔹 Contributing to **production-grade frontend applications using React**
+ 
+ ⚡ Focused on **clean UI, performance, and maintainable code**
+ 
+ 🧠 Actively improving **Data Structures & Algorithms (DSA)**
+ 
+ 💡 Built <a href="https://myskillmate-ai.vercel.app/" target="_blank"><b>SkillMate AI</b></a> — modern frontend web app
+ 
+ 🎯 Strong focus on **frontend engineering (no unnecessary backend noise)**
 
 </div>
 
@@ -40,36 +38,32 @@
 
 <hr/>
 
-<h2 align="center">⚒️ Languages, Frameworks & Tools ⚒️</h2>
+<h2 align="center">⚒️ Tech Stack ⚒️</h2>
 <br/>
+
 <div align="center">
 
-  <!-- Programming Languages -->
-  <h3>📌 Programming Languages</h3>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,typescript" /><br>
+  <h3>🚀 Frontend</h3>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,typescript,tailwind,bootstrap,mui" /><br>
 
-  <!-- Frontend -->
-  <h3>🚀 Frontend Development</h3>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,mui,figma" /><br>
+  <h3>📌 Core</h3>
+  <img src="https://skillicons.dev/icons?i=cpp,javascript" /><br>
 
-  <!-- Backend (Learning) -->
-  <h3>🛠️ Backend Development (Learning)</h3>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" /><br>
-
-  <!-- Other Tools & Version Control -->
-  <h3>🧰 Other Tools & Version Control</h3>
-  <img src="https://skillicons.dev/icons?i=git,github,mysql,vscode" /><br>
+  <h3>🧰 Tools</h3>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" /><br>
 
 </div>
+
 <br/>
 <hr/>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2>🐍 Contributions 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/sumit-616/sumit-616/output/github-contribution-grid-snake.svg" />
-  <br/><br/><br/>
+  <br/><br/>
 </div>
 
-<h2 align="center">✨ Thanks for visiting! ✨</h2>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+<h2 align="center">✨ Clean Code • Real Impact • Constant Growth ✨</h2>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:008cff,100:00bfbf&height=120&section=footer"/>
